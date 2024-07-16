@@ -51,5 +51,4 @@ public class ParkingManager {
         }
 
         return this.ticket;
-    }
-}
+    }}
